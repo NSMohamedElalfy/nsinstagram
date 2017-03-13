@@ -7,5 +7,6 @@ target 'nsinstagram' do
 
   # Pods for nsinstagram
 pod 'Parse'
+pod 'ParseUI'
 
 end
